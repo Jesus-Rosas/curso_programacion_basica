@@ -13,6 +13,12 @@ Windows: https://desktop.github.com/
 Linux: Primero hay que instalar git desde la terminal con sudo apt-get install git
 OSX: De la mismar forma que en Linux hay que instalarlo directamente desde la terminal
 
+generar clave ssh for windows
+https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows
+
+Una guia para git
+http://rogerdudler.github.io/git-guide/index.es.html
+
 Comandos Básicos en Linux:
 Configurar Git antes de iniciar un nuevo repositorio
 git config --global user.name = "Tu Usuario"
